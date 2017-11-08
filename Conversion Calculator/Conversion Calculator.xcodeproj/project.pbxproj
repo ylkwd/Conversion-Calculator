@@ -57,12 +57,12 @@
 			isa = PBXGroup;
 			children = (
 				D15E92AB1FB29A23000EA221 /* AppDelegate.swift */,
-				D15E92AF1FB29A23000EA221 /* Main.storyboard */,
 				D15E92B51FB29A23000EA221 /* Assets.xcassets */,
 				D15E92B71FB29A23000EA221 /* LaunchScreen.storyboard */,
 				D15E92BA1FB29A23000EA221 /* Info.plist */,
 				D15E92B21FB29A23000EA221 /* Conversion_Calculator.xcdatamodeld */,
 				D15E92C01FB29A47000EA221 /* ConverterViewController.swift */,
+				D15E92AF1FB29A23000EA221 /* Main.storyboard */,
 			);
 			path = "Conversion Calculator";
 			sourceTree = "<group>";
