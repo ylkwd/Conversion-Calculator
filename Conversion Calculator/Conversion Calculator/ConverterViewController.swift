@@ -25,6 +25,7 @@ class ConverterViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
+        
     //give array instances
     ConvertersArray =
         [
