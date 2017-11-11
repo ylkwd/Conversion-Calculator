@@ -2,7 +2,7 @@
 //  AppDelegate.swift
 //  Conversion Calculator
 //
-//  Created by Yaoxuan Luan on 11/7/17.
+//  Created by Yaoxuan Luan on 11/10/17.
 //  Copyright © 2017 Yaoxuan Luan. All rights reserved.
 //
 
